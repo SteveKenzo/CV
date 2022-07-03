@@ -1,0 +1,49 @@
+body {
+  background-color: rgba(235, 235, 235, 0.798);
+}
+
+.container {
+  padding: 40px;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contact {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 45%;
+  margin-bottom: 70px;
+}
+
+.Hhold h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.Hhold h3 {
+  color: red;
+}
+
+h3 {
+  color: rgb(62, 62, 237);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.two {
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  width: 80%;
+}
+
+.done {
+  margin-top: 50px;
+}
+.text span {
+  font-weight: 30px;
+}
